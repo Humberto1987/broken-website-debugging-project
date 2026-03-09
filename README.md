@@ -7,6 +7,14 @@ I fixed all errors and produced a clean, functional webpage.
 ---
 
 ## 🔧 Issues Fixed
+## 📸 Before & After
+
+Here are the screenshots showing the original broken page and the fully fixed version:
+
+| Before | After |
+|--------|--------|
+| ![Before](Screenshot 2026-03-08 222603.png) | ![After](Screenshot 2026-03-08 222856.png) |
+
 
 ### HTML Fixes
 - Corrected malformed `<meta>` viewport tag  
@@ -35,3 +43,4 @@ I fixed all errors and produced a clean, functional webpage.
 ## 🚀 Result
 The final version is a clean, readable, and fully functional webpage with correct structure and styling.  
 This project demonstrates my ability to debug real-world HTML/CSS issues and deliver a polished final product.
+

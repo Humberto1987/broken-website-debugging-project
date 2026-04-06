@@ -13,7 +13,8 @@ Here are the screenshots showing the original broken page and the fully fixed ve
 
 | Before | After |
 |--------|--------|
-| ![Before](Screenshot 2026-03-08 222603.png) | ![After](Screenshot 2026-03-08 222856.png) |
+|  https://github.com/Humberto1987/broken-website-debugging-project/blob/main/Screenshot%202026-03-08%20222603.png
+|  https://github.com/Humberto1987/broken-website-debugging-project/blob/main/Screenshot%202026-03-08%20222856.png
 
 
 ### HTML Fixes

@@ -7,9 +7,6 @@ I fixed all errors and produced a clean, functional webpage.
 ---
 
 ## 🔧 Issues Fixed
-## 📸 Before & After
-
-Here are the screenshots showing the original broken page and the fully fixed version:
 
 ## 📸 Before & After
 

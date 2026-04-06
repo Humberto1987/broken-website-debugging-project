@@ -11,10 +11,14 @@ I fixed all errors and produced a clean, functional webpage.
 
 Here are the screenshots showing the original broken page and the fully fixed version:
 
-| Before | After |
-|--------|--------|
-|  https://github.com/Humberto1987/broken-website-debugging-project/blob/main/Screenshot%202026-03-08%20222603.png
-|  https://github.com/Humberto1987/broken-website-debugging-project/blob/main/Screenshot%202026-03-08%20222856.png
+## 📸 Before & After
+
+### Before
+![Before](Screenshot%202026-03-08%20222603.png)
+
+### After
+![After](Screenshot%202026-03-08%20222856.png)
+
 
 
 ### HTML Fixes

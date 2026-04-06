@@ -14,10 +14,10 @@ Here are the screenshots showing the original broken page and the fully fixed ve
 ## 📸 Before & After
 
 ### Before
-![Before](Screenshot%202026-03-08%20222603.png)
+![After](Screenshot%202026-03-08%20222856.png)
 
 ### After
-![After](Screenshot%202026-03-08%20222856.png)
+![Before](Screenshot%202026-03-08%20222603.png)
 
 
 
